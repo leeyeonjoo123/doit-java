@@ -1,0 +1,29 @@
+package sec02_primarydatatype.EX03;
+
+public class PrimaryDataType_2 {
+	public static void main(String[] args) {
+		//#4. 문자(char) : 문자, 정수 저장 가능
+		//#4-1. 문자로 저장하는 방법
+		char value1 = 'A';
+		char value2 = '가';
+		char value3 = '9'; // 
+		
+		System.out.println(value1);
+		System.out.println(value2);
+		System.out.println(value3);
+		
+		//#4-2. 정수로 저장하는 방법
+		char value4 = 65; //A
+		char value5 = 0xac00; //가 
+		char value6 = 51; //3 
+		System.out.println(value4);
+		System.out.println(value5);
+		System.out.println(value6);
+		
+		
+		
+		//#4-3. 유니코드로 저장하는 방법
+		
+		
+	}
+}

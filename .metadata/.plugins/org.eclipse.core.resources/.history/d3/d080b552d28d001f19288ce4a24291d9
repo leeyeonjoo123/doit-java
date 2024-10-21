@@ -1,0 +1,11 @@
+package sec02_primarydatatype.EX01;
+
+public class FloatVsDouble {
+	public static void main(String[] args) {
+		//#1. Float의 정밀도
+		float f1 = 1.12345678f;
+		System.out.println(f1);
+		float f2 = 1.123456f;
+		System.out.println(f2);
+}
+}

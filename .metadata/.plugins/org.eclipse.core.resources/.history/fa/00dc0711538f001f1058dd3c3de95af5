@@ -1,0 +1,15 @@
+package sec02_primarydatatype.EX04;
+
+public class TypeCasting_1 {
+
+	public static void main(String[] args) {
+		
+		// #1.캐스팅방법
+		//@1-1 캐스팅 방법 1(데이터타입)
+		int value1 = 5.3;
+		long value2 = 10;
+		float value3 = 5.8;
+		double value4 = 16;
+	}
+
+}

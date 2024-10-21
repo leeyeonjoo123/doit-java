@@ -1,0 +1,11 @@
+package sec01_datatype.EX03;
+
+public class RangeOfVariableUse {
+	public static void main(String[] args) {
+		int value1 = 3;
+		{
+			int value2 = 5;
+			
+		}
+	}
+}

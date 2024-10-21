@@ -1,0 +1,12 @@
+package sec02_primarydatatype.EX04;
+
+public class TypeCasting_1 {
+
+	public static void main(String[] args) {
+		
+		// #1.캐스팅방법
+		//@1-1 캐스팅 방법 1(데이터타입)
+
+	}
+
+}
